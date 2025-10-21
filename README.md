@@ -1,36 +1,37 @@
 <h1 align="center"> Hola mundo! Soy -DAGA </h1>
 # 👋 ¡Hola! Soy Dilan
 
-Soy un desarrollador apasionado por el análisis de datos, la limpieza de información y la transformación de conjuntos complejos en insights útiles. Me especializo en Python y pandas, y disfruto resolviendo problemas paso a paso con un enfoque práctico y metódico.
+Estudiante de primer semestre en la Licenciatura en Ciencia de Datos en BUAP CU2 Puebla. Apasionado por la tecnología, la inteligencia artificial y el desarrollo de soluciones digitales que transforman datos en decisiones.
 
-## 🧠 Sobre mí
+## 🚀 Sobre mí
 
-- 🎯 Persistente, curioso y metódico: me gusta entender la lógica detrás de cada operación.
-- 🐍 Experto en manipulación de datos con Python y pandas.
-- 📊 Interesado en proyectos de análisis, visualización y automatización de datos.
-- 🧪 Aprendo mejor con ejemplos prácticos y retos reales.
+- 📍 Puebla, México | BUAP CU2
+- 🧠 Fascinado por la inteligencia artificial y su impacto en el mundo real.
+- 🛠️ Desarrollo aplicaciones con el ecosistema de Google (Apps Script, Sheets, Forms).
+- 📊 Experiencia como analista de datos en Chevrolet Balderrama Puebla.
+- 🌐 Conecto con las habilidades digitales y el aprendizaje continuo.
 
-## 🛠️ Tecnologías y herramientas
+## 🧰 Tecnologías y herramientas
 
-- Lenguajes: Python, SQL
-- Librerías: pandas, NumPy, Matplotlib, Seaborn
-- Herramientas: Jupyter Notebook, VS Code, Git, GitHub
+- **Lenguajes:** Python, JavaScript
+- **Librerías:** pandas, NumPy, Matplotlib, Seaborn
+- **Herramientas:** Jupyter Notebook, VS Code, Git, GitHub
 
-## 📂 Repositorios destacados
+## 🎯 Objetivos
 
-- [🔍 Limpieza de datos con pandas](https://github.com/tu-usuario/limpieza-datos-pandas): técnicas para manejar valores nulos, patrones de texto y reemplazos condicionales.
-- [📈 Análisis exploratorio de datos](https://github.com/tu-usuario/analisis-exploratorio): visualización y estadísticas descriptivas de datasets reales.
-- [⚙️ Automatización de reportes](https://github.com/tu-usuario/automatizacion-reportes): generación automática de informes en Excel y PDF usando Python.
+- Aprender y crear modelos de inteligencia artificial aplicados a problemas reales.
+- Contribuir a proyectos open source relacionados con ciencia de datos.
+- Desarrollar soluciones digitales que impacten positivamente en mi comunidad.
 
-## 📫 Cómo contactarme
+## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- ✉️ dilan@email.com
-- 🌐 [Portafolio personal](https://tu-sitio-web.com)
+- ✉️ dilan.gonzalez.daga@gmail.com
+- # INSTAGRAM: @DAGA_1khz
 
 ---
 
-¿Te gustaría que lo traduzca al inglés, lo personalice más con tu estilo o que incluya una sección de contribuciones y objetivos futuros? También puedo ayudarte a crear una versión visual con badges y estadísticas.
+
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/DAGA-Mx?style=social)
