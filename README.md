@@ -1,7 +1,7 @@
 <h1 align="center"> Hola mundo! Soy -DAGA </h1>
 # 👋 ¡Hola! Soy Dilan
 
-Estudiante de primer semestre en la Licenciatura en Ciencia de Datos en BUAP CU2 Puebla. Apasionado por la tecnología, la inteligencia artificial y el desarrollo de soluciones digitales que transforman datos en decisiones.
+Estudiante de segundo semestre en la Ingenieria en Ciencia de Datos en BUAP CU2 Puebla. Apasionado por la tecnología, la inteligencia artificial y el desarrollo de soluciones digitales que transforman datos en decisiones.
 
 ## 🚀 Sobre mí
 
