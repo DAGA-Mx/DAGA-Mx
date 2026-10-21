@@ -25,7 +25,7 @@ Estudiante de segundo semestre en la Ingenieria en Ciencia de Datos en BUAP CU2 
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dilan-gonz%C3%A1lez-7877a338b/
+- 💼 [LinkedIn](https://www.linkedin.com/in/dilan-gonz%C3%A1lez-7877a338b/)
 - ✉️ dilan.gonzalez.daga@gmail.com
 - # INSTAGRAM: @DAGA_1khz
 
